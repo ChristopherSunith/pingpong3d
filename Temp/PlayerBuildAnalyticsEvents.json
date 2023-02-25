@@ -1,0 +1,51 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "d32f3d998d51d49f3ad8bfc57192c264",
+        "build_player": 14539,
+        "preprocess_player": 14,
+        "produce_player_script_assemblies": 5119,
+        "build_scripts_dlls": 282,
+        "writing_asset_files": 475,
+        "postprocess_built_player": 4678,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 906
+          },
+          {
+            "name": "Csc",
+            "duration": 1211
+          },
+          {
+            "name": "Csc",
+            "duration": 1163
+          },
+          {
+            "name": "Csc",
+            "duration": 677
+          },
+          {
+            "name": "Csc",
+            "duration": 173
+          },
+          {
+            "name": "Csc",
+            "duration": 159
+          },
+          {
+            "name": "Csc",
+            "duration": 665
+          },
+          {
+            "name": "Csc",
+            "duration": 713
+          }
+        ]
+      },
+      "version": 1
+    }
+  ]
+}
